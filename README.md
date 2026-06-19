@@ -37,7 +37,7 @@ MDEC Scraper was designed to solve both problems: extract the complete directory
 
 - **4,195 unique companies** extracted after deduplication (from ~4,214 raw records)
 - **3,391 companies** with a website URL available for enrichment (80.8% coverage)
-- **1,529 companies** successfully enriched with contact email, phone number, or both — a **45.1% enrichment rate** across all companies with websites
+- **1,529 companies** successfully enriched with at least one contact detail (email address, phone number, or both), achieving a 45.1% enrichment rate among companies with websites.
 - **Single-pass extraction** — entire directory captured in one page load via `__NEXT_DATA__` interception
 - **Zero manual research** — the full pipeline from directory scraping to contact enrichment runs without human intervention
 
@@ -49,8 +49,8 @@ MDEC Scraper was designed to solve both problems: extract the complete directory
 | ROC No.            | Malaysian registration number              | 100%     |
 | Website            | Company website URL                        | 80.8%    |
 | Year Established   | Year of company registration               | 100%     |
-| Contact Email      | Extracted email address (enriched)         | 36.4%    |
-| Contact Number     | Extracted phone number (enriched)          | 36.4%    |
+| Contact Email      | Extracted when publicly available          | Varies   |
+| Contact Number     | Extracted when publicly available          | Varies   |
 
 ## Tech Stack
 
