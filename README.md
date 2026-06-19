@@ -117,5 +117,5 @@ Tested against the full MDEC Malaysia Digital directory:
 ## Repository Scope
 This repository serves as a project showcase. The scraper script, n8n workflow definitions, and Google Sheets integration are part of the supporting infrastructure and are not included.
 
-- [ ] Commit and push changes
+
 
