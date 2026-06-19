@@ -92,16 +92,16 @@ Stage 1: Directory Extraction          Stage 2: Contact Enrichment
 ## Screenshots
 
 ### MDEC Source Directory
-![MDEC Directory](assets/mdec_directory.png)
+![MDEC Directory](assets/mdec_directory_edited.png)
 
 ### Scraper Execution
-![Terminal Output](assets/scraper_terminal.png)
+![Terminal Output](assets/mdec_scraper_terminal.png)
 
 ### n8n Enrichment Pipeline
-![n8n Workflow](assets/n8n_enrichment_pipeline.png)
+![n8n Workflow](assets/mdec_workflow.png)
 
 ### Enriched Dataset
-![Enriched Output](assets/enriched_output.png)
+![Enriched Output](assets/enriched_output_mdec.png)
 
 ## Validated Results
 
